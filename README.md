@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lakshmi
-===============================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lakshmi Gollapalli
+===========================================================================================================================================
 
 Data-Driven Software Engineer | Aspiring Data Analyst | SQL, Python, Java, and Data Visualization Tools
 -------------------------------------------------------------------------------------------------------
@@ -36,7 +36,6 @@ src="https://img.shields.io/github/followers/LGdataExplorer?logo=github&style=fo
 
 <a href="http://www.github.com/LGdataExplorer"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=LGdataExplorer&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/LGdataExplorer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGdataExplorer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
