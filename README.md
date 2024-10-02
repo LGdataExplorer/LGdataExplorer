@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lakshmi Gollapalli
 ===========================================================================================================================================
 
-Data-Driven Software Engineer | Aspiring Data Analyst | SQL, Python, Java, and Data Visualization Tools
+Data-Driven Software Engineer | Seeking Data Analyst/Engineer/Scientist Roles | Strong Technical Skills in SQL, Python, Java, Excel, Power BI, Tableau
 -------------------------------------------------------------------------------------------------------
 
 A comprehensive repository showcasing my data analysis, visualization skills. I've worked with various relational and non-relational databases, and created interactive dashboards using tools such as Tableau, Power BI,Excel ,Python (with libraries like Matplotlib, and Seaborn). I've also gained proficiency in data manipulation and analysis using Python libraries like NumPy and pandas, as well as R. Key skills and experience: Data analysis and visualization Database management (Oracle, Sybase, MySQL, etc.) Programming (Java, Python, Unix, Perl) Data manipulation (NumPy, pandas) Statistical modeling and machine learning Dashboard creation (Tableau, Power BI, Python)
